@@ -56,6 +56,11 @@ flowchart TD
 
 ## OUTPUT:
 Captured Web Activity and Email Header Information
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/aa6b496f-3483-4301-94d6-d7b73e57b1b6" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/e670e831-3b21-47ae-a605-6e5f959dfdde" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/a5a02cd2-65ed-4e91-b3b5-0bb22c50fc92" />
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/e1cf528f-0ce2-4f8e-9668-a2ddeec746c1" />
+
 
 ## RESULT:
 Web browser artifacts and email headers were successfully analyzed using Wireshark.
